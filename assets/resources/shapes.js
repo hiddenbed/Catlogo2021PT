@@ -1,0 +1,1 @@
+window.shapes_xtj2kmubdc = function() { return {};}
